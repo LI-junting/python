@@ -19,7 +19,7 @@
         <entry file="file://$PROJECT_DIR$/day5/字符串原理剖析.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="19">
-              <caret line="1" column="15" lean-forward="true" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
+              <caret line="1" column="15" lean-forward="false" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
               <folding />
             </state>
           </provider>
@@ -52,9 +52,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="45" />
-    <option name="y" value="72" />
-    <option name="width" value="1061" />
+    <option name="x" value="3" />
+    <option name="y" value="19" />
+    <option name="width" value="681" />
     <option name="height" value="844" />
   </component>
   <component name="ProjectView">
@@ -76,7 +76,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$USER_HOME$/AppData/Local/GitHubDesktop/GitHubDesktop.exe" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -264,6 +264,9 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\ljt\AppData\Roaming\Subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="c85617a8-9fb3-4719-81ca-1e009b6a29f6" name="默认" comment="" />
@@ -275,7 +278,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="45" y="72" width="1061" height="844" extended-state="0" />
+    <frame x="3" y="19" width="681" height="844" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -323,7 +326,7 @@
     <entry file="file://$PROJECT_DIR$/day5/字符串原理剖析.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
-          <caret line="1" column="15" lean-forward="true" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
+          <caret line="1" column="15" lean-forward="false" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
           <folding />
         </state>
       </provider>
