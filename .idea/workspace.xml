@@ -2,24 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4b22cb60-fdc7-43e4-bc70-5d6dae9ec9d6" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/day2/动态赋值.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/day2/循环控制语句.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/day2/循环次数控制语句.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/day2/条件判断语句.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/day3/列表操作.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/day3/字符串操作.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/day4/test.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/day4/嵌套循环.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/day4/文件操作.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/day5/字符串原理剖析及列表的操作.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/day6/字符学习.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/作业/name&amp;password.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/作业/nihao.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/作业/数据筛选及验证.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/作业/生成账号密码.py" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/python.iml" afterPath="$PROJECT_DIR$/.idea/python.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/day2/sftp-config.json" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -29,7 +12,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/python$int.coverage" NAME="int内部功能介绍 Coverage Results" MODIFIED="1508244644655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day2" />
+    <SUITE FILE_PATH="coverage/python$int.coverage" NAME="int内部功能介绍 Coverage Results" MODIFIED="1508247480623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day2" />
   </component>
   <component name="FileEditorManager">
     <leaf>
@@ -37,7 +20,7 @@
         <entry file="file://$PROJECT_DIR$/day2/int内部功能介绍.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="228">
-              <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+              <caret line="12" column="13" lean-forward="true" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -47,6 +30,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -159,7 +145,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2" y="0" width="712" height="1040" extended-state="1" />
+    <frame x="2" y="0" width="712" height="1040" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2413793" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -207,7 +193,7 @@
     <entry file="file://$PROJECT_DIR$/day2/int内部功能介绍.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
-          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <caret line="12" column="13" lean-forward="true" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
           <folding />
         </state>
       </provider>
